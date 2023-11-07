@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshavardhan-github
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... JavaScript Frameworks
-- 💞️ I’m looking to Work as ... full stack web developer
+- 👀 I’m interested in... Data Analytics
+- 🌱 I’m currently learning ... Data Frameworks
+- 💞️ I’m looking to Work as ... Data analyst
 - 📫 How to reach me ...harshavardhanreddyvuske@gmail.com
 <!---
 harshavardhan-github/harshavardhan-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
